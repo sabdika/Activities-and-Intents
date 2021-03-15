@@ -1,2 +1,2 @@
-## Send data from the main Activity to the second Activity
-!['Completed Task 3'](Screenshots/Task3_Completed.gif)
+## Return data back to the main Activity
+!['Completed Task 4'](Screenshots/Task4_Completed.gif)
