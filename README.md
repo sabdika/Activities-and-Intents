@@ -1,2 +1,2 @@
 ## Create and launch the second Activity
-!['Completed Task 2'](Screenshots/Task2_Completed.gif)
+!['Completed Task 3'](Screenshots/Task3_Completed.gif)
