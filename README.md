@@ -1,2 +1,2 @@
-## Activities and Intent
-!['Completed Task 1'](Screenshot/Task1_completed.png)
+## Create and launch the second Activity
+!['Completed Task 2'](Screenshot/Task2_completed.gif)
